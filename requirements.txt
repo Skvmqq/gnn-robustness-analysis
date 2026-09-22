@@ -1,0 +1,10 @@
+# Core numerical and plotting packages
+numpy
+matplotlib
+scikit-learn
+igraph==1.0.0
+
+# Deep learning and graph learning
+# The project was developed with Python 3.10 and these versions.
+torch==2.5.1
+torch-geometric==2.7.0
