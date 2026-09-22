@@ -65,7 +65,7 @@ A small configuration can be used locally to verify the workflow before running 
 For a quick local verification, temporarily change `BaseArgs` in `code/main.py` to:
 
 ```python
-datasets = ["Cora"]
+datasets = ["CiteSeer"]
 epochs = 2
 runs = 1
 noise_levels = [0.0, 0.2]
